@@ -1,0 +1,1 @@
+A vagrant puppet recipe to download, compile and install Mongrel2 and its dependencies
