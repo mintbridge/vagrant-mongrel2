@@ -3,7 +3,7 @@ class zeromq {
 	include wget
 	include build
 
-	$version = "2.1.11"
+	$version = "3.2.2"
 
 	# make sure will have working local directory
 	file { "/usr/local/src":
